@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header .topheader .row a{
+    color: white;
+}
+.header{
+    display: inline;
+    background-color: black;
+}
+#carouselExampleCaptions .slide1 img{
+    height: 585px;
+    border-radius: 0px;
+}
+#carouselExampleCaptions .slide2 img{
+    height: 585px;
+    border-radius: 0px;
+}
+#carouselExampleCaptions .slide3 img{
+    height: 585px;
+    border-radius: 0px;
+}
+.menu .menlink .home:hover {
+    color: aqua;
+    font-size: 20px;
+    border: 1px solid blanchedalmond;
+    border-radius: 15px;
+    transition: 0.5s all ease;
+    background-color: crimson;
+}
+#carouselExampleCaptions img {
+    height: 500px;
+    width: 100%;
+    border-radius: 15px;
+} 
+#content3 .blank {
+    height: 423px;
+    width: 600px;
+}
+#content3 img:hover {
+    height: 430px;
+    width: 650px;
+    transition: 0.5s all ease;
+}
+
+#content4 .container .row span{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: white;
+    color: rgba(250, 0, 0, 0.779) ;
+    line-height: 100px;
+    font-size: 38px;
+    text-align: center;
+}
+
+#content4 .container .row span:hover{
+    background-color: brown;
+    width: 103px;
+    height: 103px;
+    transition: 0.5s all ease;
+    color: white;
+}
+
+#content4 .container .row h3:hover{
+    transition: 0.5s all ease;
+    color: brown;
+}
+#content5 .container .img1{
+    background-image: url(img1\ \(1\).jpg);
+    height: 402px;
+    width: 302px;
+    border-radius: 10px;
+    background-size: cover;
+}
+#content5 .container .img1:hover{
+    height: 408px;
+    width: 308px;
+    transition: 0.5s all ease;
+}
+#content5 .container .img2{
+    background-image: url(img2\ \(1\).jpg);
+    height: 295px;
+    width: 350px;
+    border-radius: 10px;
+    background-size: cover;
+}
+#content5 .container .img2:hover{
+    height: 305px;
+    width: 360px;
+    transition: 0.5s all ease;
+}
+#content5 .container .img3{
+    background-image: url(img4\ \(4\).jpg);
+    height: 265px;
+    width: 320px;
+    border-radius: 10px;
+    margin-top: 21px;
+}
+#content5 .container .img3:hover{
+    height: 258px;
+    width: 325px;
+    transition: 0.5s all ease;
+}
+#content5 .container .img4{
+    background-image: url(img3\ \(2\).jpg);
+    height: 380px;
+    width: 290px;
+    border-radius: 10px;
+    margin-top: -85px;
+}
+#content5 .container .img4:hover{
+    height: 385px;
+    width: 295px;
+    transition: 0.5s all ease;
+}
+#content5 .allimages{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#content5 .container .img4{
+    border-radius: 20px;
+}
+#content6 .container .img11{
+background-image: url(silde\ 3.jpg);
+background-size: cover;
+
+}
+#content7 .container  span {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(195, 31, 31);
+    color: white;
+    line-height: 68px;
+    font-size: 30px;
+    text-align: center;
+} 
+
+#content7 .container .row .content7img{
+    background-image: url(about4.jpg);
+    border-radius: 15px;
+}
+
+#content8 input{
+    height: 50px;
+    width: 400px;
+}
+#content8 button{
+    width: 117px;
+    font-size: 16px;
+    height: 46px;
+    margin-top: -5px;
+} 
+
+#content9{
+    background-image: url(about4.jpg);
+    border-radius: 15px;
+    height: 150px;
+    width: auto;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#content10{
+    background-color: black;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: auto;
+    height: 330px;
+}
+#content10 .row h3{
+    color:white;
+    margin-top: 60px;
+}
+#content10 span{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: rgb(195, 31, 31);
+    color: white;
+    line-height: 37px;
+    font-size: 16px;
+    text-align: center;
+}
